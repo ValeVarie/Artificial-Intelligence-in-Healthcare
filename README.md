@@ -24,7 +24,7 @@ This repository contains the complete coursework project for **SAT 5114 – Arti
 
 ## 🧬 Dataset Description
 
-- **Source**: [GDSC on Kaggle](https://www.kaggle.com/code/samiraalipour/genomics-of-drug-sensitivity-in-cancer)
+- **Source**: [https://www.kaggle.com/code/samiraalipour/genomics-of-drug-sensitivity-in-cancer/inputGDSC on Kaggle](https://www.kaggle.com/code/samiraalipour/genomics-of-drug-sensitivity-in-cancer)
 - **Size**: 484,071 samples from GDSC1 & GDSC2
 - **Contents**:
   - 1,002 cancer cell lines
